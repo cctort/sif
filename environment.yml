@@ -1,0 +1,14 @@
+name: sif
+channels:
+  - conda-forge
+  - default
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+     - jupyterlab
+     - notebook
+     - matplotlib
+     - ipywidgets
+     - line-profiler
+     - f2py-jit
