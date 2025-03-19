@@ -1,2 +1,6 @@
-sif.code-workspace
 shared
+.f2py-jit
+*.code-workspace
+*.mod
+*.txt
+*.gif
